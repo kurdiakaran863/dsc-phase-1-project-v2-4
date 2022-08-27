@@ -1,4 +1,3 @@
-
 Project Overview
 
 This project recommends the types of movies Microsoft should be making, using exploratory data analysis to generate insights and visualizations.
